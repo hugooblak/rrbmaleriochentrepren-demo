@@ -18,7 +18,6 @@ return array(
 		array( 'Superbra jobbat och proffsig service! Vi anlitade RRB måleri till att måla om vårat hus invändigt och resultatet blev absolut världsklass. Vill man ha bra kvalite och service så rekommenderar jag starkt det här bolaget. Dom vart klara i tid, städade fint efter sig och inga skavanker någonstans på de 160 kvm, som de mål', 'Salle', 'för ett år sedan' ),
 		array( 'Robin är exakt en sån person man vill anlita. Mycket väl utfört måleri arbete, flexibel och lösningsorienterad, gör det lilla extra som egentligen inte ingår i uppdraget, supertrevlig och snabb och tydlig kommunikation. Rekommenderas starkt.', 'Eric Abela', 'för ett år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg' ),
+	'bild_hero'      => 'foto-3.jpg',
 	'ar_riktig'      => true,
 );
