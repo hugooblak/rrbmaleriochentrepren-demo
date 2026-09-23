@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'RRB måleri & entreprenad AB',
+	'bransch'        => 'Målare',
 	'telefon'        => '076-190 95 75',
 	'telefon_tel'    => '+46761909575',
 	'ort'            => 'Solna',
